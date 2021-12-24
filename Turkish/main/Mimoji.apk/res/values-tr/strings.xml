@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="abc_action_bar_home_description">Ana ekrana git</string>
+  <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+  <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+  <string name="abc_action_bar_up_description">Yukarı git</string>
+  <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>
+  <string name="abc_action_mode_done">Bitti</string>
+  <string name="abc_activity_chooser_view_see_all">Tümünü göster</string>
+  <string name="abc_activitychooserview_choose_application">Bir uygulama seçin</string>
+  <string name="abc_capital_off">KAPAT</string>
+  <string name="abc_capital_on">AÇ</string>
+  <string name="abc_search_hint">Ara…</string>
+  <string name="abc_searchview_description_clear">Sorguyu temizle</string>
+  <string name="abc_searchview_description_query">Sorguyu ara</string>
+  <string name="abc_searchview_description_search">Ara</string>
+  <string name="abc_searchview_description_submit">Sorguyu gönder</string>
+  <string name="abc_searchview_description_voice">Sesli arama</string>
+  <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
+  <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
+  <string name="abc_toolbar_collapse_description">Daralt</string>
+  <string name="app_name">MiMoji</string>
+  <string name="AR_IMG_SHARE">Mimoji</string>
+  <string name="BLOG_APP_NO_INSTALL">Uygulama yüklü değil</string>
+  <string name="cta_message"><a href="http://www.miui.com/res/doc/privacy/en.html">《Gizlilik Politikası》</a>kabul etmeli, kamera, kayıt ve ağ erişimine izin vermelisiniz. Kabul?</string>
+  <string name="cta_privacy_url">http://www.miui.com/res/doc/privacy/en.html</string>
+  <string name="error_tip_out_range">Cihazı yüzün önünde tutun.</string>
+  <string name="error_tip_sleep">Devam etmek için basın</string>
+  <string name="MILIAO_APP_NO_INSTALL">Uygulama yüklü değil</string>
+  <string name="permission_message">Uygulama kamera ve cihaz hafızasına erişim gerektirir.</string>
+  <string name="QQ_APP_NO_INSTALL">Uygulama yüklü değil</string>
+  <string name="save_success">Galeri\'ye kaydedildi</string>
+  <string name="search_menu_title">Ara</string>
+  <string name="splash_text">Cihazı yüzün önünde tutun.</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="support_phone_message">Cihaz desteklenmiyor</string>
+  <string name="text_1">Lütfen bekleyin</string>
+  <string name="text_2">Gizlilik sözleşmesi</string>
+  <string name="text_3">Sesli</string>
+  <string name="text_4">Orijinal</string>
+  <string name="text_5">Kadın</string>
+  <string name="text_6">Erkek</string>
+  <string name="text_7">Karikatür</string>
+  <string name="text_8">Geri</string>
+  <string name="text_9">Kaydet</string>
+  <string name="text_10">Paylaş</string>
+  <string name="text_11">Daha</string>
+  <string name="text_12">İptal</string>
+  <string name="text_13">Kameraya erişime izin verilsin mi?</string>
+  <string name="webo_version_too_low">Uygulamayı güncellemeniz gerekiyor</string>
+  <string name="WICHART_APP_NO_INSTALL">Uygulama yüklü değil</string>
+</resources>

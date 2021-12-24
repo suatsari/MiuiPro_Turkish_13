@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="agree">Kabul et</string>
+  <string name="cancel">İptal</string>
+  <string name="check_protocol_msg">Bakım modunu kullanmak için lütfen buraya tıklayın</string>
+  <string name="check_protocol_msg_detail">Onarım moduna başlamadan önce, lütfen verilerin yedeklendiğinden ve onarılan üründen kaynaklanan olası veri kayıplarından satış sonrası servisin sorumlu olmadığından emin olun.</string>
+  <string name="check_protocol_msg_sub">Kullanıcı Verileri Sorumluluk Reddi</string>
+  <string name="click_to_close">Bakım Modundan çıkmak için buraya tıklayın</string>
+  <string name="close_maintenance_mode">Bakım modunu kapat</string>
+  <string name="create_fail">Bakım modu oluşturulamadı, lütfen daha sonra tekrar deneyin</string>
+  <string name="create_fail_because_max_user">Sistemdeki maksimum kullanıcı sayısına ulaşıldı. Lütfen avatar, çift açma veya çocuk modu verilerini silin ve tekrar deneyin.</string>
+  <string name="delete_maintenance_mode">Bakım modu siliniyor...</string>
+  <string name="disagree">Reddet</string>
+  <string name="forbid_create">Bakım modu yalnızca ana kullanıcı alanında oluşturulabilir</string>
+  <string name="maintenance_mode">Bakım Modu</string>
+  <string name="maintenance_mode_close_title">Bakım modunda</string>
+  <string name="maintenance_mode_loading">Onarım modu başlatılıyor, telefon birazdan yeniden başlatılacak…</string>
+  <string name="maintenance_mode_reboot">Bakım modu yeniden başlatma</string>
+  <string name="maintenance_mode_title">Cep telefonu verilerinin kapsamlı korunması</string>
+  <string name="maintenance_mode_watch_out">Satış sonrası bakım sırasında fotoğraflar, videolar, kişiler, çağrı kayıtları ve metin mesajları gibi önemli özel verileri koruyun</string>
+  <string name="open">Bakım modunu aç</string>
+  <string name="open_maintenance_mode">Bakım modunu aç</string>
+  <string name="open_maintenance_mode_msg">Veri kaybını önlemek için, daha sonra onarım için göndermeniz önerilir.</string>
+  <string name="open_maintenance_mode_msg_sub">Verileriniz yedekleniyor</string>
+  <string name="reached_max_user">Maksimum kullanıcı sayısına ulaşıldı</string>
+  <string name="reboot_maintenance_mode">Bakım modunu silme tamamlandı. Performans kaybı yaşamamak için cihazı yeniden başlatın</string>
+  <string name="reboot_msg">Bakım modunun açılması, telefonu otomatik olarak yeniden başlatacak. Lütfen hemen açılıp açılmayacağını onaylayın.</string>
+  <string name="set_password_main_user">Ana kullanıcı için şifre ayarla</string>
+  <string name="set_password_main_user_context">Verilerinizin güvenliğini sağlamak için lütfen bir kilit ekranı şifresi belirleyin. Şifrenizi sakın unutmayın. Bakım modunu kapatırken, belirlediğiniz kilit ekranı şifresini doğrulamanız gerekir.</string>
+  <string name="setting">Ayar</string>
+  <string name="switch_to_maintenance_mode">Bakım moduna geç</string>
+</resources>
