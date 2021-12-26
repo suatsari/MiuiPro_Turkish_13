@@ -2743,7 +2743,7 @@ Bu özelliği ilk kez kullandığınızda kod dönüştürme işlemi biraz zaman
   <string name="widget_label_custom">Seçilen resimler</string>
   <string name="widget_label_recommend">Anılar</string>
   <string name="widget_recommend_default_description_no_story">Burada henüz anı yok</string>
-  <string name="widget_recommend_default_description_open_story">Ayarlar'ı açmak ve \"Anılar\"ı aktif etmek için dokunun</string>
+  <string name="widget_recommend_default_description_open_story">Ayarlar\'ı açmak ve \"Anılar\"ı aktif etmek için dokunun</string>
   <string name="widget_recommend_default_description_shop">En parlak anlarınızı gözden geçirin</string>
   <string name="widget_recommend_default_example">Demo</string>
   <string name="widget_recommend_default_title_on_story">Anılar</string>
