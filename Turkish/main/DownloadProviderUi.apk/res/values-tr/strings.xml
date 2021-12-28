@@ -273,6 +273,7 @@
   <string name="no_share_file_content">Seçtiğiniz dosya zaten silindi</string>
   <string name="no_share_files">"Zaten silinmiş dosyalar paylaşılamaz"</string>
   <string name="no_share_files_content">"Silinen bazı dosyalar zaten paylaşılıyordu. Başarıyla diğer dosyalar paylaşıldı."</string>
+  <string name="no_support_modify_path">Güvenlik nedeniyle indirilen öğelerin konumu değiştirilemiyor</string>
   <string name="no_vip_info">İndirmeleri hızlandırmak için Xunlei üyeliği alın</string>
   <string name="no_vip_show_info">"Xunlei ile tüm
 cihazlarınızda indirmeleri hızlandırın"</string>
