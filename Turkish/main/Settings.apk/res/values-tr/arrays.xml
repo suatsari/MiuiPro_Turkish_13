@@ -269,6 +269,7 @@
     <item>1xRTT</item>
     <item>IS95B</item>
     <item>IS95A</item>
+    <item>NR</item>
   </string-array>
   <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
     <item>Sistem tercihini kullan (Varsayılan)</item>
@@ -404,11 +405,11 @@
     <item>PIN</item>
     <item>Şifre</item>
   </string-array>
-  <string-array name="change_security_lock_picker_key">
-    <item>yüz</item>
-    <item>desen</item>
-    <item>sayısal</item>
-    <item>karışık</item>
+  <string-array name="charge_animation_style_entries">
+    <item>Kapalı</item>
+    <item>Akış</item>
+    <item>Parıltı</item>
+    <item>Dalga</item>
   </string-array>
   <string-array name="fold_entries">
     <item>Tavsiye edilen</item>
@@ -746,6 +747,10 @@
     <item>Uyumluluk modu</item>
     <item>Yüksek mod</item>
   </string-array>
+  <string-array name="dark_ui_mode_entries">
+    <item>Karanlık</item>
+    <item>Aydınlık</item>
+  </string-array>  
   <string-array name="data_usage_data_range">
     <item>Son 30 gün</item>
     <item>Kullanım döngüsünü ayarla...</item>
@@ -1091,8 +1096,8 @@
   </string-array>
   <string-array name="select_logpersist_titles">
     <item>Kapalı</item>
-    <item>Hepsi</item>
-    <item>Radyo hariç hepsi</item>
+    <item>Tümü</item>
+    <item>Radyo hariç tümü</item>
     <item>Sadece çekirdek</item>
   </string-array>
   <string-array name="show_non_rect_clip_entries">
@@ -1207,6 +1212,9 @@
     <item>Önceden paylaşılan anahtarlara ve Xauth kimlik doğrulamasına sahip IPSec VPN</item>
     <item>Sertifikaları ve Xauth kimlik doğrulamasını içeren IPSec VPN</item>
     <item>Sertifikalı ve hibrid kimlik doğrulamalı IPSec VPN</item>
+    <item>Sertifikalı ve kullanıcı adı/parola kimlik doğrulaması ile IKEv2/IPSec VPN</item>
+    <item>Önceden paylaşılan anahtarlara sahip IKEv2/IPSec VPN</item>
+    <item>Sertifikalı IKEv2/IPSec VPN</item>	
   </string-array>
   <string-array name="wfd_status">
     <item>Oturum başlıyor ...</item>
@@ -1256,11 +1264,6 @@
     <item>Butona basın</item>
     <item>Akran cihazından PIN</item>
     <item>Bu cihazdan PIN</item>
-  </string-array>
-  <string-array name="wifi_peap_phase2_entries">
-    <item>Yok</item>
-    <item>MSCHAPV2</item>
-    <item>GTC</item>
   </string-array>
   <string-array name="wifi_phase2_entries">
     <item>Yok</item>
@@ -1345,6 +1348,29 @@
     <item>MIUI</item>
     <item>Android</item>
   </string-array>  
+  <string-array name="keyguard_notification_status_entries">
+    <item>Ekranı uyandırma</item>
+    <item>Ekranı uyandır</item>
+    <item>Animasyonu göster</item>
+  </string-array>
+  <string-array name="badge_counter_entries">
+    <item>Sağ üst</item>
+    <item>Sol alt</item>
+    <item>Sol üst</item>
+    <item>Sağ alt</item>
+  </string-array>
+  <string-array name="folder_columns_entries">
+    <item>4 sütun</item>
+    <item>3 sütun</item>
+  </string-array>
+  <string-array name="clock_style_entries">
+    <item>Yatay</item>
+    <item>Dikey</item>
+  </string-array>
+  <string-array name="status_bar_styles_entries">
+    <item>Varsayılan</item>
+    <item>Merkezi saat</item>
+  </string-array>
   <string-array name="ai_key_item_name">
     <item>Google Asistan ile konuş</item>
     <item>Google aramayı aç</item>
@@ -1354,15 +1380,28 @@
     <item>El fenerini aç</item>
     <item>Okuma modunu aç</item>
     <item>Yok</item>
-  </string-array> 
-  <string-array name="keyguard_notification_status_entries">
-    <item>Ekranı uyandırma</item>
-    <item>Ekranı uyandır</item>
-    <item>Animasyonu göster</item>
+  </string-array>
+  <string-array name="home_gesture_entries">
+    <item>Kilit ekranı</item>
+    <item>Güç menüsü</item>
+    <item>Arkaplan uygulamaları</item>
+    <item>Arama</item>
+    <item>Ses modu: ses / titreşim</item>
+    <item>Bildirim paneli</item>
+    <item>Wi-Fi</item>
+    <item>Bluetooth</item>
+    <item>Mobil veri</item>
+    <item>RAM temizle</item>
+    <item>Uygulamayı başlat</item>
+    <item>Devre dışı</item>
   </string-array>
   <string-array name="default_vol_stream_entries">
     <item>Zil sesi</item>
     <item>Medya</item>
+  </string-array>
+  <string-array name="status_bar_settings_qs_layout_entries">
+    <item>Varsayılan</item>
+    <item>Genişletilmiş</item>
   </string-array>
   <string-array name="aod_clock_style_entries">
     <item>Yatay</item>
