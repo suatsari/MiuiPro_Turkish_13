@@ -771,7 +771,7 @@
   <string name="select">Seç</string>
   <string name="select_all">Hepsini seç</string>
   <string name="select_clip_desc">Şarkıdan bir klip seçin</string>
-  <string name="select_desc_sub">En fazla 3 dil seçebilirsiniz</string>
+  <string name="select_desc_sub">En fazla %d dil seçebilirsiniz</string>
   <string name="select_device">Cihazı seç</string>
   <string name="select_displayed_folders">Gösterilecek klasörleri seçin</string>
   <string name="select_local_album_cover">Resim seç</string>
@@ -779,8 +779,8 @@
   <string name="select_local_lyric">Dosyayı seç</string>
   <string name="select_local_lyric_file">Yerel şarkı sözü dosyasını seç</string>
   <string name="select_none">Vazgeç</string>
-  <string name="select_one_language">En az 1 dil seçin</string>
-  <string name="select_three_languages">En fazla 3 dil seçebilirsiniz</string>
+  <string name="select_one_language">En az %d dil seçin</string>
+  <string name="select_three_languages">En fazla %d dil seçebilirsiniz</string>
   <string name="selected_count">%2$d %1$d seçildi</string>
   <string name="send_to_title">(%1$s) Gönder</string>
   <string name="service_and_settings">Servis ve Hizmetler</string>
