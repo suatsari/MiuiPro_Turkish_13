@@ -8,13 +8,13 @@
     <item quantity="one">%1$s izin</item>
     <item quantity="other">%1$s izin</item>
   </plurals>
-  <plurals name="app_info_private_permission_count">
-    <item quantity="one">%1$s gizlilikle ilgili izin</item>
-    <item quantity="other">%1$s gizlilikle ilgili izin</item>
-  </plurals>
   <plurals name="app_info_permission_count_">
     <item quantity="other">%1$s izin,</item>
     <item quantity="one">%1$s izin,</item>
+  </plurals>
+  <plurals name="app_info_private_permission_count">
+    <item quantity="one">%1$s gizlilikle ilgili izin</item>
+    <item quantity="other">%1$s gizlilikle ilgili izin</item>
   </plurals>
   <plurals name="comment_count">
     <item quantity="one">%1$s yorum</item>
@@ -32,4 +32,8 @@
     <item quantity="other">&lt;Data>&lt;font color=#0D84FF>%d&lt;/font> gizlilik ile ilgili izin&lt;/Data></item>
     <item quantity="one">&lt;Data>&lt;font color=#0D84FF>%d&lt;/font> gizlilik ile ilgili izin&lt;/Data></item>
   </plurals>
+  <plurals name="password_wrong_retry_msg">
+    <item quantity="other">Çok fazla başarısız deneme. %1$S saniye içinde tekrar deneyin.</item>
+    <item quantity="one">Çok fazla başarısız deneme. %1$S saniye içinde tekrar deneyin.</item>
+  </plurals>  
 </resources>

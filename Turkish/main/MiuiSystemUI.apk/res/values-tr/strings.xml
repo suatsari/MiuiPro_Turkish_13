@@ -1404,6 +1404,7 @@
   <string name="prompt_detecting">Algılanıyor</string>
   <string name="prompt_safe">Güvenli</string>
   <string name="prompt_unknown">Bilinmeyen</string>
+  <string name="qs_bill_message_balance">%1$s %2$s kaldı</string>
   <string name="qs_customize">Hızlı Ayarlar\'da uzun basma özelliğine izin ver</string>
   <string name="qs_customize_info">Bilgi</string>
   <string name="qs_customize_remove">Kaldır</string>
@@ -1418,6 +1419,9 @@
   <string name="qs_open_night_mode_alert_summary">Bazı ekran ayarları Koyu modla uyumlu değil. Ancak, Koyu modu kapattığınızda bunlar geri yüklenir.</string>
   <string name="qs_paging">Yeni Hızlı ayarları kullanın</string>
   <string name="qs_rearrange">Hızlı ayarları yeniden düzenle</string>
+  <string name="qs_traffic_message_type_exceed">%1$s %2$s limit aşıldı</string>
+  <string name="qs_traffic_message_type_remain">%1$s %2$s kaldı</string>
+  <string name="qs_traffic_message_type_used">%1$s %2$s kullanıldı</string>
   <string name="quick_settings">Hızlı Ayarlar</string>
   <string name="quick_settings_autobrightness_label">Otomatik parlaklık</string>
   <string name="quick_settings_batterysaver_label">Pil tasarrufu</string>

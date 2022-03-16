@@ -627,7 +627,7 @@ Lütfen bu kodu teknisyene gönderin."</string>
   <string name="suggestion_description">Açıklamanızı buraya yazın</string>
   <string name="system_app_select">Yerleşik uygulamalar</string>
   <string name="tab_title_chat">SSS</string>
-  <string name="tab_title_my_reports">Raporlarım</string>
+  <string name="tab_title_my_reports">Geribildirimim</string>
   <string name="tab_title_preferences">Ayarlar</string>
   <string name="tab_title_report">Geribildirim</string>
   <string name="temporary_not_available">Bu özellik henüz mevcut değil.</string>
