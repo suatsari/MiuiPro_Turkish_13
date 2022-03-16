@@ -3010,4 +3010,13 @@ Sorularınız varsa %2$s ile iletişime geçin."</string>
   <string name="wifitrackerlib_wifi_unmetered_label">Sınırsız</string>
   <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Şu anda kablosuz ağa otomatik olarak bağlanılamıyor</string>
   <string name="window_blurs">Pencere bulanıklaştırmaya izin ver</string>
+  <string name="privacy_dialog_title">Hassas işlemlerle ilgili bildirimler</string>
+  <string name="privacy_recent_used_title">Son kullanılan</string>
+  <string name="privacy_using_title">Geçerli</string>
+  <string name="recent_used_camera">Bu uygulama kamera kullandı</string>
+  <string name="recent_used_camera_and_microphone">Bu uygulama ses kaydetti ve kamera kullandı</string>
+  <string name="recent_used_microphone">Bu uygulama ses kaydetti</string>
+  <string name="using_camera">Bu uygulama kamera kullanıyor</string>
+  <string name="using_camera_and_microphone">Bu uygulama ses kaydediyor ve kamera kullanıyor</string>
+  <string name="using_microphone">Bu uygulama ses kaydediyor</string>
 </resources>
